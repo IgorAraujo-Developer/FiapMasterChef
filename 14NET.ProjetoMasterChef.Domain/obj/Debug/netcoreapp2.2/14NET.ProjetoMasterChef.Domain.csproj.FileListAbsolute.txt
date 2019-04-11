@@ -1,0 +1,17 @@
+C:\Pessoal\FIAP\Trabalhos\Desenv_Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Domain\bin\Debug\netcoreapp2.2\14NET.ProjetoMasterChef.Domain.deps.json
+C:\Pessoal\FIAP\Trabalhos\Desenv_Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Domain\bin\Debug\netcoreapp2.2\14NET.ProjetoMasterChef.Domain.dll
+C:\Pessoal\FIAP\Trabalhos\Desenv_Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Domain\bin\Debug\netcoreapp2.2\14NET.ProjetoMasterChef.Domain.pdb
+C:\Pessoal\FIAP\Trabalhos\Desenv_Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Domain\obj\Debug\netcoreapp2.2\14NET.ProjetoMasterChef.Domain.csprojAssemblyReference.cache
+C:\Pessoal\FIAP\Trabalhos\Desenv_Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Domain\obj\Debug\netcoreapp2.2\14NET.ProjetoMasterChef.Domain.csproj.CoreCompileInputs.cache
+C:\Pessoal\FIAP\Trabalhos\Desenv_Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Domain\obj\Debug\netcoreapp2.2\14NET.ProjetoMasterChef.Domain.AssemblyInfoInputs.cache
+C:\Pessoal\FIAP\Trabalhos\Desenv_Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Domain\obj\Debug\netcoreapp2.2\14NET.ProjetoMasterChef.Domain.AssemblyInfo.cs
+C:\Pessoal\FIAP\Trabalhos\Desenv_Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Domain\obj\Debug\netcoreapp2.2\14NET.ProjetoMasterChef.Domain.dll
+C:\Pessoal\FIAP\Trabalhos\Desenv_Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Domain\obj\Debug\netcoreapp2.2\14NET.ProjetoMasterChef.Domain.pdb
+C:\Pessoal\FIAP\Trabalhos\Desenv Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Domain\bin\Debug\netcoreapp2.2\14NET.ProjetoMasterChef.Domain.deps.json
+C:\Pessoal\FIAP\Trabalhos\Desenv Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Domain\bin\Debug\netcoreapp2.2\14NET.ProjetoMasterChef.Domain.dll
+C:\Pessoal\FIAP\Trabalhos\Desenv Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Domain\bin\Debug\netcoreapp2.2\14NET.ProjetoMasterChef.Domain.pdb
+C:\Pessoal\FIAP\Trabalhos\Desenv Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Domain\obj\Debug\netcoreapp2.2\14NET.ProjetoMasterChef.Domain.csproj.CoreCompileInputs.cache
+C:\Pessoal\FIAP\Trabalhos\Desenv Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Domain\obj\Debug\netcoreapp2.2\14NET.ProjetoMasterChef.Domain.AssemblyInfoInputs.cache
+C:\Pessoal\FIAP\Trabalhos\Desenv Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Domain\obj\Debug\netcoreapp2.2\14NET.ProjetoMasterChef.Domain.AssemblyInfo.cs
+C:\Pessoal\FIAP\Trabalhos\Desenv Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Domain\obj\Debug\netcoreapp2.2\14NET.ProjetoMasterChef.Domain.dll
+C:\Pessoal\FIAP\Trabalhos\Desenv Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Domain\obj\Debug\netcoreapp2.2\14NET.ProjetoMasterChef.Domain.pdb

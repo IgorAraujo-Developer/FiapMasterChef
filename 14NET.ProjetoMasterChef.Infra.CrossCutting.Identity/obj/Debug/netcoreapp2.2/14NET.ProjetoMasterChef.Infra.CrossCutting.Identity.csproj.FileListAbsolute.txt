@@ -1,0 +1,40 @@
+C:\Pessoal\FIAP\Trabalhos\Desenv_Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.2\14NET.ProjetoMasterChef.Infra.CrossCutting.Identity.deps.json
+C:\Pessoal\FIAP\Trabalhos\Desenv_Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.2\14NET.ProjetoMasterChef.Infra.CrossCutting.Identity.dll
+C:\Pessoal\FIAP\Trabalhos\Desenv_Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.2\14NET.ProjetoMasterChef.Infra.CrossCutting.Identity.pdb
+C:\Pessoal\FIAP\Trabalhos\Desenv_Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Pessoal\FIAP\Trabalhos\Desenv_Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.dll
+C:\Pessoal\FIAP\Trabalhos\Desenv_Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Pessoal\FIAP\Trabalhos\Desenv_Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Pessoal\FIAP\Trabalhos\Desenv_Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Identity.Stores.dll
+C:\Pessoal\FIAP\Trabalhos\Desenv_Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Identity.EntityFrameworkCore.xml
+C:\Pessoal\FIAP\Trabalhos\Desenv_Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.xml
+C:\Pessoal\FIAP\Trabalhos\Desenv_Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Pessoal\FIAP\Trabalhos\Desenv_Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Pessoal\FIAP\Trabalhos\Desenv_Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Identity.Stores.xml
+C:\Pessoal\FIAP\Trabalhos\Desenv_Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Infra.CrossCutting.Identity\obj\Debug\netcoreapp2.2\14NET.ProjetoMasterChef.Infra.CrossCutting.Identity.csprojAssemblyReference.cache
+C:\Pessoal\FIAP\Trabalhos\Desenv_Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Infra.CrossCutting.Identity\obj\Debug\netcoreapp2.2\14NET.ProjetoMasterChef.Infra.CrossCutting.Identity.csproj.CoreCompileInputs.cache
+C:\Pessoal\FIAP\Trabalhos\Desenv_Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Infra.CrossCutting.Identity\obj\Debug\netcoreapp2.2\14NET.ProjetoMasterChef.Infra.CrossCutting.Identity.AssemblyInfoInputs.cache
+C:\Pessoal\FIAP\Trabalhos\Desenv_Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Infra.CrossCutting.Identity\obj\Debug\netcoreapp2.2\14NET.ProjetoMasterChef.Infra.CrossCutting.Identity.AssemblyInfo.cs
+C:\Pessoal\FIAP\Trabalhos\Desenv_Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Infra.CrossCutting.Identity\obj\Debug\netcoreapp2.2\14NET.ProjetoMasterChef.Infra.CrossCutting.Identity.csproj.CopyComplete
+C:\Pessoal\FIAP\Trabalhos\Desenv_Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Infra.CrossCutting.Identity\obj\Debug\netcoreapp2.2\14NET.ProjetoMasterChef.Infra.CrossCutting.Identity.dll
+C:\Pessoal\FIAP\Trabalhos\Desenv_Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Infra.CrossCutting.Identity\obj\Debug\netcoreapp2.2\14NET.ProjetoMasterChef.Infra.CrossCutting.Identity.pdb
+C:\Pessoal\FIAP\Trabalhos\Desenv Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.2\14NET.ProjetoMasterChef.Infra.CrossCutting.Identity.deps.json
+C:\Pessoal\FIAP\Trabalhos\Desenv Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.2\14NET.ProjetoMasterChef.Infra.CrossCutting.Identity.dll
+C:\Pessoal\FIAP\Trabalhos\Desenv Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.2\14NET.ProjetoMasterChef.Infra.CrossCutting.Identity.pdb
+C:\Pessoal\FIAP\Trabalhos\Desenv Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Pessoal\FIAP\Trabalhos\Desenv Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.dll
+C:\Pessoal\FIAP\Trabalhos\Desenv Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Pessoal\FIAP\Trabalhos\Desenv Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Pessoal\FIAP\Trabalhos\Desenv Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Identity.Stores.dll
+C:\Pessoal\FIAP\Trabalhos\Desenv Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Identity.EntityFrameworkCore.xml
+C:\Pessoal\FIAP\Trabalhos\Desenv Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.xml
+C:\Pessoal\FIAP\Trabalhos\Desenv Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Pessoal\FIAP\Trabalhos\Desenv Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.2\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Pessoal\FIAP\Trabalhos\Desenv Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Identity.Stores.xml
+C:\Pessoal\FIAP\Trabalhos\Desenv Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Infra.CrossCutting.Identity\obj\Debug\netcoreapp2.2\14NET.ProjetoMasterChef.Infra.CrossCutting.Identity.csprojAssemblyReference.cache
+C:\Pessoal\FIAP\Trabalhos\Desenv Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Infra.CrossCutting.Identity\obj\Debug\netcoreapp2.2\14NET.ProjetoMasterChef.Infra.CrossCutting.Identity.csproj.CoreCompileInputs.cache
+C:\Pessoal\FIAP\Trabalhos\Desenv Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Infra.CrossCutting.Identity\obj\Debug\netcoreapp2.2\14NET.ProjetoMasterChef.Infra.CrossCutting.Identity.AssemblyInfoInputs.cache
+C:\Pessoal\FIAP\Trabalhos\Desenv Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Infra.CrossCutting.Identity\obj\Debug\netcoreapp2.2\14NET.ProjetoMasterChef.Infra.CrossCutting.Identity.AssemblyInfo.cs
+C:\Pessoal\FIAP\Trabalhos\Desenv Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Infra.CrossCutting.Identity\obj\Debug\netcoreapp2.2\14NET.ProjetoMasterChef.Infra.CrossCutting.Identity.csproj.CopyComplete
+C:\Pessoal\FIAP\Trabalhos\Desenv Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Infra.CrossCutting.Identity\obj\Debug\netcoreapp2.2\14NET.ProjetoMasterChef.Infra.CrossCutting.Identity.dll
+C:\Pessoal\FIAP\Trabalhos\Desenv Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Infra.CrossCutting.Identity\obj\Debug\netcoreapp2.2\14NET.ProjetoMasterChef.Infra.CrossCutting.Identity.pdb

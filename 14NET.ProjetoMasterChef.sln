@@ -1,0 +1,114 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0 - Presentation", "0 - Presentation", "{807FF9B5-3D04-4A3A-AE69-18DF6391BCF5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Services", "1 - Services", "{BA6ABCD1-93A2-4559-A4EE-392680BA0AFC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Application", "2 - Application", "{78B3ED82-1998-4954-AA09-BEAD51A25FAC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Domain", "3 - Domain", "{A27537E5-135D-4385-A263-6347ACE8DE76}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - Infra", "4 - Infra", "{E99B287D-5102-4114-B94B-540C523C5C4B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14NET.ProjetoMasterChef.UI", "14NET.ProjetoMasterChef.UI\14NET.ProjetoMasterChef.UI.csproj", "{D0D44808-7A6F-4D94-AC82-222A86B758F4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14NET.ProjetoMasterChef.Infra.CrossCutting.Identity", "14NET.ProjetoMasterChef.Infra.CrossCutting.Identity\14NET.ProjetoMasterChef.Infra.CrossCutting.Identity.csproj", "{FBF94A64-653F-40BE-ADE2-B331D77AC5AE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14NET.ProjetoMasterChef.Infra.CrossCutting.IoC", "14NET.ProjetoMasterChef.Infra.CrossCutting.IoC\14NET.ProjetoMasterChef.Infra.CrossCutting.IoC.csproj", "{74B4666F-9AB0-4AE6-9BFB-B2DD624F2833}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14NET.ProjetoMasterChef.Application", "14NET.ProjetoMasterChef.Application\14NET.ProjetoMasterChef.Application.csproj", "{4EA6348D-FBEF-42F0-9F1A-213415BD33F4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14NET.ProjetoMasterChef.Domain", "14NET.ProjetoMasterChef.Domain\14NET.ProjetoMasterChef.Domain.csproj", "{F0AC8EFB-AF4E-4890-8410-9B0B654BA3EE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14NET.ProjetoMasterChef.Infra.Data", "14NET.ProjetoMasterChef.Infra.Data\14NET.ProjetoMasterChef.Infra.Data.csproj", "{2BC30324-0A97-4871-BDB4-B411CE9402DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14NET.ProjetoMasterChef.Services.Api", "14NET.ProjetoMasterChef.Services.Api\14NET.ProjetoMasterChef.Services.Api.csproj", "{B2F762B9-DD13-4FEB-B672-CA674EDAD517}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0D44808-7A6F-4D94-AC82-222A86B758F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0D44808-7A6F-4D94-AC82-222A86B758F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0D44808-7A6F-4D94-AC82-222A86B758F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0D44808-7A6F-4D94-AC82-222A86B758F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBF94A64-653F-40BE-ADE2-B331D77AC5AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBF94A64-653F-40BE-ADE2-B331D77AC5AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBF94A64-653F-40BE-ADE2-B331D77AC5AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBF94A64-653F-40BE-ADE2-B331D77AC5AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74B4666F-9AB0-4AE6-9BFB-B2DD624F2833}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74B4666F-9AB0-4AE6-9BFB-B2DD624F2833}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74B4666F-9AB0-4AE6-9BFB-B2DD624F2833}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74B4666F-9AB0-4AE6-9BFB-B2DD624F2833}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EA6348D-FBEF-42F0-9F1A-213415BD33F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EA6348D-FBEF-42F0-9F1A-213415BD33F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EA6348D-FBEF-42F0-9F1A-213415BD33F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EA6348D-FBEF-42F0-9F1A-213415BD33F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0AC8EFB-AF4E-4890-8410-9B0B654BA3EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0AC8EFB-AF4E-4890-8410-9B0B654BA3EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0AC8EFB-AF4E-4890-8410-9B0B654BA3EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0AC8EFB-AF4E-4890-8410-9B0B654BA3EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BC30324-0A97-4871-BDB4-B411CE9402DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BC30324-0A97-4871-BDB4-B411CE9402DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BC30324-0A97-4871-BDB4-B411CE9402DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BC30324-0A97-4871-BDB4-B411CE9402DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2F762B9-DD13-4FEB-B672-CA674EDAD517}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2F762B9-DD13-4FEB-B672-CA674EDAD517}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2F762B9-DD13-4FEB-B672-CA674EDAD517}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2F762B9-DD13-4FEB-B672-CA674EDAD517}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D0D44808-7A6F-4D94-AC82-222A86B758F4} = {807FF9B5-3D04-4A3A-AE69-18DF6391BCF5}
+		{FBF94A64-653F-40BE-ADE2-B331D77AC5AE} = {E99B287D-5102-4114-B94B-540C523C5C4B}
+		{74B4666F-9AB0-4AE6-9BFB-B2DD624F2833} = {E99B287D-5102-4114-B94B-540C523C5C4B}
+		{4EA6348D-FBEF-42F0-9F1A-213415BD33F4} = {78B3ED82-1998-4954-AA09-BEAD51A25FAC}
+		{F0AC8EFB-AF4E-4890-8410-9B0B654BA3EE} = {A27537E5-135D-4385-A263-6347ACE8DE76}
+		{2BC30324-0A97-4871-BDB4-B411CE9402DB} = {E99B287D-5102-4114-B94B-540C523C5C4B}
+		{B2F762B9-DD13-4FEB-B672-CA674EDAD517} = {BA6ABCD1-93A2-4559-A4EE-392680BA0AFC}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96A42612-FF5A-4E76-A51F-96A9AD496370}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 8
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dev.azure.com/rm332195
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = 14NET.ProjetoMasterChef.UI\\14NET.ProjetoMasterChef.UI.csproj
+		SccProjectTopLevelParentUniqueName1 = 14NET.ProjetoMasterChef.sln
+		SccProjectName1 = 14NET.ProjetoMasterChef.UI
+		SccLocalPath1 = 14NET.ProjetoMasterChef.UI
+		SccProjectUniqueName2 = 14NET.ProjetoMasterChef.Infra.CrossCutting.Identity\\14NET.ProjetoMasterChef.Infra.CrossCutting.Identity.csproj
+		SccProjectTopLevelParentUniqueName2 = 14NET.ProjetoMasterChef.sln
+		SccProjectName2 = 14NET.ProjetoMasterChef.Infra.CrossCutting.Identity
+		SccLocalPath2 = 14NET.ProjetoMasterChef.Infra.CrossCutting.Identity
+		SccProjectUniqueName3 = 14NET.ProjetoMasterChef.Infra.CrossCutting.IoC\\14NET.ProjetoMasterChef.Infra.CrossCutting.IoC.csproj
+		SccProjectTopLevelParentUniqueName3 = 14NET.ProjetoMasterChef.sln
+		SccProjectName3 = 14NET.ProjetoMasterChef.Infra.CrossCutting.IoC
+		SccLocalPath3 = 14NET.ProjetoMasterChef.Infra.CrossCutting.IoC
+		SccProjectUniqueName4 = 14NET.ProjetoMasterChef.Application\\14NET.ProjetoMasterChef.Application.csproj
+		SccProjectTopLevelParentUniqueName4 = 14NET.ProjetoMasterChef.sln
+		SccProjectName4 = 14NET.ProjetoMasterChef.Application
+		SccLocalPath4 = 14NET.ProjetoMasterChef.Application
+		SccProjectUniqueName5 = 14NET.ProjetoMasterChef.Domain\\14NET.ProjetoMasterChef.Domain.csproj
+		SccProjectTopLevelParentUniqueName5 = 14NET.ProjetoMasterChef.sln
+		SccProjectName5 = 14NET.ProjetoMasterChef.Domain
+		SccLocalPath5 = 14NET.ProjetoMasterChef.Domain
+		SccProjectUniqueName6 = 14NET.ProjetoMasterChef.Infra.Data\\14NET.ProjetoMasterChef.Infra.Data.csproj
+		SccProjectTopLevelParentUniqueName6 = 14NET.ProjetoMasterChef.sln
+		SccProjectName6 = 14NET.ProjetoMasterChef.Infra.Data
+		SccLocalPath6 = 14NET.ProjetoMasterChef.Infra.Data
+		SccProjectUniqueName7 = 14NET.ProjetoMasterChef.Services.Api\\14NET.ProjetoMasterChef.Services.Api.csproj
+		SccProjectTopLevelParentUniqueName7 = 14NET.ProjetoMasterChef.sln
+		SccProjectName7 = 14NET.ProjetoMasterChef.Services.Api
+		SccLocalPath7 = 14NET.ProjetoMasterChef.Services.Api
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,28 @@
+C:\Pessoal\FIAP\Trabalhos\Desenv_Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Infra.Data\bin\Debug\netcoreapp2.2\14NET.ProjetoMasterChef.Infra.Data.deps.json
+C:\Pessoal\FIAP\Trabalhos\Desenv_Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Infra.Data\bin\Debug\netcoreapp2.2\14NET.ProjetoMasterChef.Infra.Data.dll
+C:\Pessoal\FIAP\Trabalhos\Desenv_Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Infra.Data\bin\Debug\netcoreapp2.2\14NET.ProjetoMasterChef.Infra.Data.pdb
+C:\Pessoal\FIAP\Trabalhos\Desenv_Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Infra.Data\bin\Debug\netcoreapp2.2\14NET.ProjetoMasterChef.Domain.dll
+C:\Pessoal\FIAP\Trabalhos\Desenv_Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Infra.Data\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Pessoal\FIAP\Trabalhos\Desenv_Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Infra.Data\bin\Debug\netcoreapp2.2\14NET.ProjetoMasterChef.Domain.pdb
+C:\Pessoal\FIAP\Trabalhos\Desenv_Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Infra.Data\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Pessoal\FIAP\Trabalhos\Desenv_Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Infra.Data\obj\Debug\netcoreapp2.2\14NET.ProjetoMasterChef.Infra.Data.csprojAssemblyReference.cache
+C:\Pessoal\FIAP\Trabalhos\Desenv_Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Infra.Data\obj\Debug\netcoreapp2.2\14NET.ProjetoMasterChef.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Pessoal\FIAP\Trabalhos\Desenv_Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Infra.Data\obj\Debug\netcoreapp2.2\14NET.ProjetoMasterChef.Infra.Data.AssemblyInfoInputs.cache
+C:\Pessoal\FIAP\Trabalhos\Desenv_Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Infra.Data\obj\Debug\netcoreapp2.2\14NET.ProjetoMasterChef.Infra.Data.AssemblyInfo.cs
+C:\Pessoal\FIAP\Trabalhos\Desenv_Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Infra.Data\obj\Debug\netcoreapp2.2\14NET.ProjetoMasterChef.Infra.Data.csproj.CopyComplete
+C:\Pessoal\FIAP\Trabalhos\Desenv_Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Infra.Data\obj\Debug\netcoreapp2.2\14NET.ProjetoMasterChef.Infra.Data.dll
+C:\Pessoal\FIAP\Trabalhos\Desenv_Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Infra.Data\obj\Debug\netcoreapp2.2\14NET.ProjetoMasterChef.Infra.Data.pdb
+C:\Pessoal\FIAP\Trabalhos\Desenv Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Infra.Data\bin\Debug\netcoreapp2.2\14NET.ProjetoMasterChef.Infra.Data.deps.json
+C:\Pessoal\FIAP\Trabalhos\Desenv Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Infra.Data\bin\Debug\netcoreapp2.2\14NET.ProjetoMasterChef.Infra.Data.dll
+C:\Pessoal\FIAP\Trabalhos\Desenv Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Infra.Data\bin\Debug\netcoreapp2.2\14NET.ProjetoMasterChef.Infra.Data.pdb
+C:\Pessoal\FIAP\Trabalhos\Desenv Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Infra.Data\bin\Debug\netcoreapp2.2\14NET.ProjetoMasterChef.Domain.dll
+C:\Pessoal\FIAP\Trabalhos\Desenv Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Infra.Data\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Pessoal\FIAP\Trabalhos\Desenv Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Infra.Data\bin\Debug\netcoreapp2.2\14NET.ProjetoMasterChef.Domain.pdb
+C:\Pessoal\FIAP\Trabalhos\Desenv Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Infra.Data\bin\Debug\netcoreapp2.2\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Pessoal\FIAP\Trabalhos\Desenv Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Infra.Data\obj\Debug\netcoreapp2.2\14NET.ProjetoMasterChef.Infra.Data.csprojAssemblyReference.cache
+C:\Pessoal\FIAP\Trabalhos\Desenv Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Infra.Data\obj\Debug\netcoreapp2.2\14NET.ProjetoMasterChef.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Pessoal\FIAP\Trabalhos\Desenv Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Infra.Data\obj\Debug\netcoreapp2.2\14NET.ProjetoMasterChef.Infra.Data.AssemblyInfoInputs.cache
+C:\Pessoal\FIAP\Trabalhos\Desenv Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Infra.Data\obj\Debug\netcoreapp2.2\14NET.ProjetoMasterChef.Infra.Data.AssemblyInfo.cs
+C:\Pessoal\FIAP\Trabalhos\Desenv Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Infra.Data\obj\Debug\netcoreapp2.2\14NET.ProjetoMasterChef.Infra.Data.csproj.CopyComplete
+C:\Pessoal\FIAP\Trabalhos\Desenv Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Infra.Data\obj\Debug\netcoreapp2.2\14NET.ProjetoMasterChef.Infra.Data.dll
+C:\Pessoal\FIAP\Trabalhos\Desenv Web\14NET.ProjetoMasterChef\14NET.ProjetoMasterChef.Infra.Data\obj\Debug\netcoreapp2.2\14NET.ProjetoMasterChef.Infra.Data.pdb

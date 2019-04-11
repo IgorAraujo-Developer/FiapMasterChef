@@ -1,0 +1,41 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Bem - Vindo ao Projeto MASTER CHEF!!!</h1>
+    <br />
+</div>
+
+<div class="row">
+    <div class="col-md-6">
+        <h4>Este projeto utiliza as seguintes tecnologias:</h4>
+        <ul>
+            <li>.NET Core 2.2</li>
+            <li>ASP.NET MVC Core 2.2</li>
+            <li>ASP.NET WebAPI Core 2.2</li>
+            <li>EF Core 2.2</li>
+            <li>ASP.NET Identity Core 2.2</li>
+            <li>AutoMapper</li>
+            <li>Swagger UI</li>
+        </ul>
+    </div>
+    <div class="col-md-6">
+        <h6>Crie uma conta e contribua com a comunidade FIAP MASTER CHEF!</h6>
+        <a asp-area="Identity" asp-page="/Account/Register">Crie sua conta!</a>
+        <br /><br />
+        <h6>Receitas!</h6>
+        <a asp-area="" asp-controller="Receitas" asp-action="Index">Veja nossa lista de receitas!</a>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-6">
+        <h4>Contextos!</h4>
+        <ul>
+            <li>UI: update-database -Context MasterChefContext</li>
+            <li>IDENTITY: update-database -Context ApplicationDbContext</li>
+        </ul>
+    </div>
+</div>
+

@@ -1,0 +1,46 @@
+﻿@model IEnumerable<_14NET.ProjetoMasterChef.Application.ViewModels.ReceitaViewModel>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<p>
+    <a asp-action="Create">Criar uma receita</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Titulo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Tags)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                <img src="~/Site_Images/@Url.Content(item.FotoURL)" alt="Receita Imagem" width="150px" />
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Titulo)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.Tags)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Editar</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Visualizar</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Excluir</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
